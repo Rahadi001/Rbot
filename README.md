@@ -41,12 +41,12 @@ Bot **tidak menggunakan WhatsApp API resmi**, melainkan koneksi Web WhatsApp (Ba
 
 
 ---
-## ⚙️ Instalasi
+## ⚙️ Instalasi on termux or panel
 
 ### 1️⃣ Clone Repository
--git clone git@github.com:Rahadi001/Rbot.git
--cd Rbot
--npm i
+•$git clone git@github.com:Rahadi001/Rbot.git
+•$cd Rbot
+•$npm i
 
 
->@MIT<
+>@MIT 2010-2026
